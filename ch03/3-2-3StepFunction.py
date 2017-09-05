@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 15 01:44:54 2017
-
-@author: win8_VM_user
-"""
 
 import numpy as np
 import matplotlib.pylab as plt

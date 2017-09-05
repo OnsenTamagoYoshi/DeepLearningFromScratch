@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 30 02:26:27 2017
-
-@author: win8_VM_user
-"""
 
 try:
     import urllib.request

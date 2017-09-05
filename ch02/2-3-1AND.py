@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  9 01:17:25 2017
-
-@author: win8_VM_user
-"""
 
 def AND(x1, x2):
     w1, w2, theta = 0.5, 0.5, 0.7

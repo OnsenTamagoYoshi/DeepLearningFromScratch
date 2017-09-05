@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  9 01:32:36 2017
-
-@author: win8_VM_user
-"""
 
 import numpy as np
 def AND(x1, x2):
